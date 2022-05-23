@@ -1,0 +1,18 @@
+body {
+   font-family: 'Roboto', sans-serif;
+}
+
+<!--Наша команда-->
+
+.team {
+   background-color:  #F5F4FA;
+}
+
+.team  li{
+   background-color:  #F5F4FA;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 36px;
+   line-height: 42px;
+   text-align: center;
+}
